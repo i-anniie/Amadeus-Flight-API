@@ -152,8 +152,7 @@ docker run -p 5000:5000 flight-booking-api
 
 ## 🤝 Contributors
 
-👤 **Anwesh Mishra**\
-📧 [anweshmishra2000@gmail.com](mailto:anweshmishra2000@gmail.com)\
+👤 **Anwesh**\
 🔗 [LinkedIn](https://www.linkedin.com/in/anweshmishra/)\
 🖥️ [GitHub](https://github.com/i-anniie)
 
